@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/ALAN/Desktop/fid_545807406_files (1)",
-      "program": "c:/Users/ALAN/Desktop/fid_545807406_files (1)/build/Debug/outDebug",
+      "cwd": "c:/Users/ALAN/Desktop/bitmap-406",
+      "program": "c:/Users/ALAN/Desktop/bitmap-406/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

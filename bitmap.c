@@ -100,9 +100,6 @@ void free_bitmap(Bitmap *bmp) {
  */
 void scale(Bitmap *bmp, int scale_factor) {
     // Update header size based on the scale factor
-    int originalWidth = bmp->width;
-    int originalHeight = bmp->height;
-
     bmp->width *= scale_factor;
     bmp->height *= scale_factor;
 
